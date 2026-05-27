@@ -11,7 +11,9 @@ public:
 
             //shrinking
             // int tot = r - l + 1; //tot letters computed 
-            while((r - l + 1) - maxfreq > k){
+            if((r - l + 1) - maxfreq > k){ //optimization to shrink only uptil maxlen
+                //with while : tc = O(n + n)
+                //without while : tc = O(n)
                 mp[s[l] - 'A']--;
                 l++;
             }
