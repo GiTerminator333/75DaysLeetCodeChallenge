@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
