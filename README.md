@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0860-lemonade-change](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
