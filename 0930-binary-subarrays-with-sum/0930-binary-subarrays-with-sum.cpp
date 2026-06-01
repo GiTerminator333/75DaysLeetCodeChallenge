@@ -2,17 +2,18 @@ class Solution {
 public:
     int countSubUpto(vector<int>& nums, int val){
         //finding all valid subarrays with sum <= val
+        if(val < 0) return 0;
         int l=0, r=0;
         int count = 0;
         int sum = 0;
         while(r < nums.size()){
             sum += nums[r];
-            while(l <= r && sum > val){
+            while(sum > val){
                 sum -= nums[l];
                 l++;
             }
             
-            if(sum <= val ) count += (r-l+1); //count all possible subarrays <= val
+            count += (r-l+1); //count all possible subarrays <= val
             r++;
         }
 
