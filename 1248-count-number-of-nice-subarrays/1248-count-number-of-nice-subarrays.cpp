@@ -1,20 +1,27 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        for(int i=0; i<nums.size(); i++){
-            nums[i] = (nums[i]%2);
-        }
-
-        unordered_map<int, int> mp;
-        int preSum = 0;
+    int countSubUpto(vector<int>& nums, int val){
+        //finding all valid subarrays with sum <= val
+        if(val < 0) return 0;
+        int l=0, r=0;
         int count = 0;
-        mp[0] = 1;
-        for(int i=0; i<nums.size(); i++){
-            preSum += nums[i];
-            count += mp[preSum - k];
-            mp[preSum]++;
+        int tot = 0;
+
+        while(r < nums.size()){
+            if(nums[r]%2) tot++;
+
+            while(tot > val){
+                if(nums[l]%2) tot--;
+                l++;
+            }
+            
+            count += (r-l+1); //count all possible subarrays <= val
+            r++;
         }
 
         return count;
+    }
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return countSubUpto(nums,k) - countSubUpto(nums,k - 1);
     }
 };
