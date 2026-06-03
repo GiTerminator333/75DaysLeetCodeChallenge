@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
