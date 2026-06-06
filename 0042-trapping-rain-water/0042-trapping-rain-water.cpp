@@ -1,20 +1,30 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        //right max h
-        vector<int> rightMax(height.size());
-        rightMax[height.size() - 1] = height[height.size() - 1];
-        for(int i = height.size() - 2; i>=0; i--){
-            rightMax[i] = max(height[i], rightMax[i+1]);
+        //SPACE OPTIMIZATION SC = O(1) TWO POINTER
+        // we only need to know about the max ele of the side that is smaller -> lower bound of water collection
+        //explained in notebook
+
+        int l = 0, r = height.size() - 1;
+        int leftMax = 0, rightMax = 0;
+        int tot = 0;
+        while(l < r){
+            if(height[l] <= height[r]){
+                if(leftMax > height[l]){
+                    tot += leftMax - height[l];
+                }
+                else leftMax = height[l];
+                l = l + 1;
+            }
+            else{
+                if(rightMax > height[r]){
+                    tot += rightMax - height[r];
+                }
+                else rightMax = height[r];
+                r = r - 1;
+            }
         }
 
-        int leftMax = height[0];
-        int totWater = 0;
-        for(int i = 1; i<height.size() - 1; i++){
-            if(height[i] > leftMax) leftMax = height[i];    //cal left max h
-            totWater += min(leftMax, rightMax[i]) - height[i];
-        }
-
-        return totWater;
+        return tot;
     }
 };
