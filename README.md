@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0402-remove-k-digits](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [2126-destroying-asteroids](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2126-destroying-asteroids](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -139,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0930-binary-subarrays-with-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
