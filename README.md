@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
@@ -248,5 +250,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 <!---LeetCode Topics End-->
