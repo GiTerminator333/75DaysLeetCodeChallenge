@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3612-process-string-with-special-operations-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Counting
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
