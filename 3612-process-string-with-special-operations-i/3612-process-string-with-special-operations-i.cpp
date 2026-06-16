@@ -7,8 +7,7 @@ public:
                 if(res.size()) res.pop_back();
             }
             else if(c == '#'){
-                string temp = res;
-                res.append(temp);
+                res.append(res);
             }
             else if(c == '%'){
                 reverse(res.begin(), res.end());
