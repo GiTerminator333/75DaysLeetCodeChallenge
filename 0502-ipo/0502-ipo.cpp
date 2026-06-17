@@ -10,22 +10,25 @@ class Solution {
 public:
     typedef pair<int, int> pi;
     int findMaximizedCapital(int k, int w, vector<int>& profits, vector<int>& capital) {
-        priority_queue<pi, vector<pi>, greater<pi>> pq;
+        vector<pi> v; //{cap, profit}
 
         for(int i=0; i<profits.size(); i++){
-            pq.push({capital[i], profits[i]});
+            v.push_back({capital[i], profits[i]});
         }
+
+        sort(v.begin(), v.end());
 
         int aukaat = w; //tracks running net capital
 
         priority_queue<pi> maxh; //for max profit;
+        int idx = 0; //iterates v
         while(k--){
-            while(!pq.empty() && pq.top().first <= aukaat){
-                pi p = pq.top();
-                pq.pop();
+            while(idx < v.size() && v[idx].first <= aukaat){
+                pi p = v[idx];
                 maxh.push({p.second, p.first});
+                idx++;
             }
-            
+
             if(!maxh.empty()){
                 aukaat += maxh.top().first;
                 maxh.pop();
