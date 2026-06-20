@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
