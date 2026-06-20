@@ -1,40 +1,37 @@
 // init linked list of pair<int, int>
+struct Node {
+    pair<int, int> data;
+    Node* next;
+    Node(int time, int tweet) {
+        data.first = time, data.second = tweet;
+        next = NULL;
+    }
+};
 class Twitter {
 public:
-    struct Node {
-        pair<int, int> data;
-        Node* next;
-        Node(int time, int tweet) {
-            data.first = time, data.second = tweet;
-            next = NULL;
-        }
-    };
     // more like merge k sorted LL
-    // i will maintain a LL of all the post for each acc in the map <id,
-    // pair<int size,node* head> LL design 
+    // i will maintain a LL of all the post for each acc in the map <int, ListNode* head> LL design 
     //i will also maintain a map of users who is following
     // then merge the feeds based on recency using maxheap
     // jyada timer val -> more recent tweet
 
     int timer = 0; // timing of the tweets
-    unordered_map<int, pair<int, Node*>> mp;
+    unordered_map<int,Node*> mp;
     unordered_map<int, unordered_set<int>> isFollowing;
 
     Twitter() {}
 
     void postTweet(int userId, int tweetId) {
-        // 10 most recent tweet
+        // recent tweet
         Node* temp = new Node(timer, tweetId);
         if (mp.find(userId) == mp.end()) {
-            mp[userId] = {1, temp};
+            mp[userId] = temp;
         } else {
-            auto &m = mp[userId];
-            int size = m.first;
-            Node* head = m.second;
+            Node* head = mp[userId];
 
             temp->next = head;
             //joining new tweet before last newest tweet
-            mp[userId] = {size, temp};
+            mp[userId] = temp;
         }
 
         timer++;
@@ -47,14 +44,14 @@ public:
 
         //pushing user node
         if(mp.find(userId) != mp.end()){
-            auto head = mp[userId].second;
+            auto head = mp[userId];
             pq.push({head->data.first, head}); //{time of recent tweet, head}
         }
 
         // iterate all the following
         for (auto x : isFollowing[userId]) {
             if(mp.find(x) == mp.end()) continue;
-            Node* h = mp[x].second;
+            Node* h = mp[x];
             int time = h->data.first;
             pq.push({time, h});
         }
