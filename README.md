@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -262,12 +263,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Queue
 |  |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Bit Manipulation
 |  |
@@ -316,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
