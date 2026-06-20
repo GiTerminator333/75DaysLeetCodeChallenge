@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
