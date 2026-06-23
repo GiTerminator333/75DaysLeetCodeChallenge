@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0372-super-pow](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0372-super-pow](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
 ## Union-Find
 |  |
 | ------- |
