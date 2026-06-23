@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
+| [1922-count-good-numbers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [1833-maximum-ice-cream-bars](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
