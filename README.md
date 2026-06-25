@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
@@ -359,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
