@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0895-maximum-frequency-stack) |
 | [0911-online-election](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0911-online-election) |
 | [0930-binary-subarrays-with-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0992-subarrays-with-k-different-integers) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0895-maximum-frequency-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0355-design-twitter](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0895-maximum-frequency-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [0911-online-election](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0911-online-election) |
 ## Monotonic Stack
@@ -375,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
