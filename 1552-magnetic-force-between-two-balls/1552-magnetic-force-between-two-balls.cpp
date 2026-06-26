@@ -5,14 +5,7 @@ public:
         //min force to maximize
         sort(position.begin(), position.end());
 
-        int mini = INT_MAX;
-        for(int i=0; i<position.size() - 1; i++){
-            if(mini > position[i + 1] - position[i]){
-                mini = position[i + 1] - position[i];
-            }
-        }
-
-        int lo = mini, hi = position[position.size() - 1] - position[0];
+        int lo = 1, hi = position.back() - position[0];
 
         while(lo <= hi){
             int mid = (lo + hi)>>1;
