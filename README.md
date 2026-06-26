@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
+| [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0372-super-pow](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
+| [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
