@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
 | [2653-sliding-subarray-beauty](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2653-sliding-subarray-beauty) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Dynamic Programming
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [2653-sliding-subarray-beauty](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2653-sliding-subarray-beauty) |
 ## Prefix Sum
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [3612-process-string-with-special-operations-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
