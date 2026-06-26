@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
 | [0911-online-election](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0911-online-election) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
+| [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
