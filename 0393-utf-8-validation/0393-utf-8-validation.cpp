@@ -1,39 +1,31 @@
-class Solution {
+class Solution{
 public:
-    bool validUtf8(vector<int>& data) {
-        int rbytes = 0; //remaining bytes for a sequence
-
-        for(int val : data){
-            if(rbytes == 0){
-                //picking up the starting of the seq
-                if( ((val >> 7) & 1) == 0){
-                    rbytes = 0; //tot no of bytes == 1 ==>rbytes = 0
-                }
-                else if( ((val >> 5) & 7) == 6){
-                    rbytes = 1;
-                }
-                else if( ((val >> 4) & 15) == 14){
-                    rbytes = 2;
-                }
-                else if( ((val >> 3) & 31) == 30){
-                    rbytes = 3;
-                }
-                else return false;
-            }
-
-            else{
-                if( ((val >> 6) & 3) == 2){
-                    rbytes--;
-                }
-                else return false;
-            }
-        }
-
-        if(rbytes != 0){
-            //seq left incomplete
-            return false;
-        }
-
-        return true;
+  bool validUtf8(vector<int> &data){
+    int n = data.size(); 
+    int count = 0;       
+    for (int i = 0; i < n; i++){    
+      int ele = data[i]; 
+      if (!count){ 
+	   // if the first 3 bits are 110, then the next byte is part of the current UTF-8 character
+        if ((ele >> 5) == 0b110) 
+          count = 1; 
+		// if the first 4 bits are 1110, then the next 2 bytes are part of the current UTF-8 character  
+        else if ((ele >> 4) == 0b1110)
+          count = 2; 
+		 // if the first 5 bits are 11110, then the next 3 bytes are part of the current UTF-8 character
+        else if ((ele >> 3) == 0b11110)
+          count = 3; 
+		 // if the first bit is 1, then return false
+        else if ((ele >> 7))
+          return false; 
+      }
+      else{
+	   // if the first 2 bits are not 10, then return false
+        if ((ele >> 6) != 0b10)
+          return false; 
+        count--;        
+      }
     }
+    return (count == 0); 
+  }
 };
