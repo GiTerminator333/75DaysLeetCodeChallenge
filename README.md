@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2653-sliding-subarray-beauty) |
 ## Divide and Conquer
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -345,12 +348,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
 | [1054-distant-barcodes](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1054-distant-barcodes) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |
 | ------- |
@@ -404,4 +409,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0895-maximum-frequency-stack) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
