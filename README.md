@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0907-sum-of-subarray-minimums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0371-sum-of-two-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0372-super-pow) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
