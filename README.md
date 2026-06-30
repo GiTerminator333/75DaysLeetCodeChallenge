@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
 | [1732-find-the-highest-altitude](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1801-number-of-orders-in-the-backlog](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1801-number-of-orders-in-the-backlog) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1552-magnetic-force-between-two-balls) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1901-find-a-peak-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
