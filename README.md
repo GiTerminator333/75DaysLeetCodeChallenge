@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3612-process-string-with-special-operations-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3838-weighted-word-mapping) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Ordered Set
 |  |
 | ------- |
