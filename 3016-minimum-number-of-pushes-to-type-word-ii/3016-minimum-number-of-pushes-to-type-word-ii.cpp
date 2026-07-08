@@ -6,24 +6,23 @@ public:
             mp[word[i] - 'a']++;
         }
 
-        priority_queue<int> pq;
-        for(int i=0; i<26; i++){
-            pq.push(mp[i]);
-        }
+        auto cmp = [&](int a, int b){
+            return a > b;
+        };
 
-        int cnt = 0; //count no of buttons assigned (2-9)
-        int click = 1;  //click to press each time
+        sort(mp.begin(), mp.end(), cmp);
+
         int totClicks = 0;
-        while(!pq.empty()){
-            if(cnt == 8){
-                //all 8 buttons already assigned the curr click amt
-                cnt = 0;
-                click++;
-            }
-            int f = pq.top();
-            pq.pop();
+        int cnt = 0;
+        int clicks = 1;
 
-            totClicks += f * click;
+        for(int i=0; i<26; i++){
+            if(cnt == 8){
+                cnt = 0;
+                clicks++;
+            }
+
+            totClicks += mp[i] * clicks;
             cnt++;
         }
 
