@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0692-top-k-frequent-words](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0767-reorganize-string) |
+| [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Ordered Set
