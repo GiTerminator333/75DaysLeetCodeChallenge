@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2574-left-and-right-sum-differences) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2653-sliding-subarray-beauty](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2653-sliding-subarray-beauty) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0907-sum-of-subarray-minimums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2512-reward-top-k-students](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2512-reward-top-k-students) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2653-sliding-subarray-beauty](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2653-sliding-subarray-beauty) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1922-count-good-numbers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -447,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Ordered Set
 |  |
@@ -457,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+## Combinatorics
+|  |
+| ------- |
+| [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 <!---LeetCode Topics End-->
