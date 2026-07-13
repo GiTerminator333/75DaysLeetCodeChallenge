@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1840-maximum-building-height) |
 | [1901-find-a-peak-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1901-find-a-peak-element-ii) |
+| [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2104-sum-of-subarray-ranges) |
 | [2126-destroying-asteroids](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0907-sum-of-subarray-minimums](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
+| [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
+| [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Ordered Set
@@ -470,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
 ## Combinatorics
 |  |
 | ------- |
