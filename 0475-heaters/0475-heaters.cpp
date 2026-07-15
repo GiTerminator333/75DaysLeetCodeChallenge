@@ -9,7 +9,7 @@ public:
             else i++;
         }
 
-        return (i == houses.size() && j <= heaters.size());
+        return (i == houses.size());
     }
     int findRadius(vector<int>& houses, vector<int>& heaters) {
         sort(houses.begin(), houses.end());
