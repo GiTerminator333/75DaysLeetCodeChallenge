@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0410-split-array-largest-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0911-online-election](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0911-online-election) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
+| [0475-heaters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
+| [0475-heaters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
