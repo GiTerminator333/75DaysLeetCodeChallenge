@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0436-find-right-interval) |
 | [0475-heaters](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0475-heaters) |
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0355-design-twitter) |
+| [0491-non-decreasing-subsequences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0477-total-hamming-distance](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0477-total-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0077-combinations) |
 | [0282-expression-add-operators](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0282-expression-add-operators) |
+| [0491-non-decreasing-subsequences](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0784-letter-case-permutation](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1947-maximum-compatibility-score-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/1947-maximum-compatibility-score-sum) |
