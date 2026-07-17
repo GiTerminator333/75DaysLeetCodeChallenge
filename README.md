@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0377-combination-sum-iv) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/GiTerminator333/75DaysLeetCodeChallenge/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
