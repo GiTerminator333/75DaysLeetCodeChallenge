@@ -11,26 +11,26 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>& pre, vector<int> &in, int prelo, int prehi, int inlo, int inhi){
+    TreeNode* solve(vector<int>& pre, unordered_map<int, int> &map, int prelo, int prehi, int inlo, int inhi){
         if(prelo > prehi) return NULL;
         //first of pre => root
-        int idx = inlo;
-        for(idx; idx <= inhi; idx++){
-            if(in[idx] == pre[prelo]) break;
-        }
-
-        TreeNode* root = new TreeNode();
-        root->val = in[idx];
-
+        //improved search efficiency using map
+        TreeNode* root = new TreeNode(pre[prelo]);
+        int idx = map[root->val];
         int leftCount = idx - inlo;
 
-        root->left = solve(pre,in, prelo + 1, prelo + leftCount, inlo, idx - 1);
-        root->right = solve(pre,in,prelo + leftCount + 1, prehi, idx + 1, inhi);
+        root->left = solve(pre, map, prelo + 1, prelo + leftCount, inlo, idx);
+        root->right = solve(pre, map, prelo + leftCount + 1, prehi, idx + 1, inhi);
 
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int n = preorder.size();
-        return solve(preorder, inorder, 0, n-1, 0, n-1);
+
+        unordered_map<int, int> map;
+        for(int i=0; i<inorder.size(); i++){
+            map[inorder[i]] = i;
+        }
+        return solve(preorder, map, 0, n-1, 0, n-1);
     }
 };
