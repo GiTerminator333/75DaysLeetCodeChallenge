@@ -12,28 +12,25 @@
 class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
-        queue<TreeNode*> q;
-        bool isNull = false;
-        q.push(root);
+        //DFS
+        //count tot nodes
+        //consider an array 0 based indexing, index all nodes including null
+        //if indexCount >= totCount, not complete
+        if(!root) return true;
 
-        while(!q.empty()){
-            int n = q.size();
-            while(n--){
-                TreeNode* node = q.front();
-                q.pop();
+        int totCount = countNodes(root);
+        return isComplete(root, 0, totCount);
+    }
 
-                if(node == NULL){
-                    isNull = true;
-                }
-                else if(isNull) return false;
-                else{
-                    q.push(node->left);
-                    q.push(node->right);
-                }
-            }
+    bool isComplete(TreeNode* root, int index, int totCount){
+        if(!root) return true;
+        if(index >= totCount) return false;
 
-        } 
+        return isComplete(root->left, 2*index+1, totCount) && isComplete(root->right, 2*index+2, totCount);
+    }
 
-        return true;
+    int countNodes(TreeNode* root){
+        if(!root) return 0;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
