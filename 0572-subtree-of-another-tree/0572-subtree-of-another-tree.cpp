@@ -12,18 +12,23 @@
 class Solution {
 public:
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
-        //find the subRoot
-        return solve(root, subRoot);
-    }
-    bool solve(TreeNode* root, TreeNode* target) {
-        if(!root) return false;
-        if(root->val == target->val){
-            if(isSame(root, target)) return true;
+        if(!root && !subRoot) return true;
+        else if(!root || !subRoot) return false;
+        if(root->val == subRoot->val && isSame(root, subRoot)){
+            return true;
         }
 
-        if(solve(root->left, target) || solve(root->right, target)) return true;
-        return false;
+        return isSubtree(root->left, subRoot) || isSubtree(root->right, subRoot);
     }
+    // bool solve(TreeNode* root, TreeNode* target) {
+    //     if(!root) return false;
+    //     if(root->val == target->val){
+    //         if(isSame(root, target)) return true;
+    //     }
+
+    //     if(solve(root->left, target) || solve(root->right, target)) return true;
+    //     return false;
+    // }
 
     bool isSame(TreeNode* p, TreeNode* q){
         if(!p && !q) return true;
